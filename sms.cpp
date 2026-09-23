@@ -12,7 +12,6 @@ const int MAX_STUDENTS = 100;
 // =====================================================
 // LINKED LIST NODE
 // This stores EXTRA DATA / SUBJECT DETAILS
-//added in github web
 // =====================================================
 
 struct Subject
